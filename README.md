@@ -1,5 +1,5 @@
 # Image_Search
-An image search tool using Pexel API.
+An image search tool using Pexels API.
 
 # Usage
 Download the files into the same folder and open the index.html file with google chrome.
